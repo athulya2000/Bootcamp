@@ -26,6 +26,8 @@ public class MenuDriven {
                 int div=n1/n2;
                 System.out.println(div);
                 break;
+            default:
+                System.out.println("Enter the valid number");
         }
 
 
