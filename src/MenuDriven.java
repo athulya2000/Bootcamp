@@ -13,6 +13,12 @@ public class MenuDriven {
             case 1:
                 int ans=n1+n2;
                 System.out.println(ans);
+                break;
+            case 2:
+                int sub=n1-n2;
+                System.out.println(sub);
+                break;
+
 
         }
 
