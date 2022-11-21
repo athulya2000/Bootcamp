@@ -18,7 +18,10 @@ public class MenuDriven {
                 int sub=n1-n2;
                 System.out.println(sub);
                 break;
-
+            case 3:
+                int mul=n1*n2;
+                System.out.println(mul);
+                break;
 
         }
 
