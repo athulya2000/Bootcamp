@@ -22,7 +22,10 @@ public class MenuDriven {
                 int mul=n1*n2;
                 System.out.println(mul);
                 break;
-
+            case 4:
+                int div=n1/n2;
+                System.out.println(div);
+                break;
         }
 
 
